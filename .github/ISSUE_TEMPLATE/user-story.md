@@ -1,6 +1,6 @@
 ---
 name: User Story
-about: " CSM Training Practice "
+about: Kip CSM  practicals
 title: ''
 labels: ''
 assignees: ''
